@@ -5,7 +5,7 @@
 - Engineering (Quantum Mechanics & Astrophysics)
 - and Game Development!
 
-🌱 I’m currently studying at Faculty of Pharmaceutical Sciences, Chulalongkorn University (first year)
+🌱 I’m currently studying at Faculty of Pharmaceutical Sciences, Chulalongkorn University
 
 <!---
 TheRainAfter/TheRainAfter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
